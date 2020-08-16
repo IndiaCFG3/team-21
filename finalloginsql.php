@@ -25,9 +25,10 @@ if (mysqli_num_rows($result) > 0) {
    $_SESSION["name"]="$name";
    //header("Location: home.html");
    if($job)
-   header("Location: Views/Teachers/Teacher_view.html");
+   header("Location: Teachers/Teacher_view.php");
    else
-   	echo "Student Login Successful";
+   header("Location: Student_view.php");
+
   
 }
 else {
