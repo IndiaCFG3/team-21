@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div{
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -6,4 +7,14 @@ section{
 	background-color : red;
 }
 #username{
+=======
+div{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+section{
+	background-color : red;
+}
+#username{
+>>>>>>> ea97da44255d48dde39b35e4664b56039315b4a5
 }

@@ -29,4 +29,32 @@
 #video_card{
     
     height:500px;
+<<<<<<< HEAD
+=======
+}
+
+.none {
+    display: none;
+}
+
+.input {
+    width: 80px;
+  }
+
+.blue-bg {
+    background-color: #394989;
+}
+
+input[type=submit].blue-bg:hover,
+button.blue-bg:hover {
+background-color: #fddb3a;
+}
+
+.yellow-bg {
+background-color: #fddb3a;
+}
+
+.black-bg {
+background-color: #222;
+>>>>>>> ea97da44255d48dde39b35e4664b56039315b4a5
 }
